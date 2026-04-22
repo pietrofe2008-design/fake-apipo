@@ -1,0 +1,16 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nome": "M-TEC-PI Desenvolvimento de Sistemas",
+            "disciplinas": ["WEB III", "PAM III", "BD"],
+            "carga-horária": 1200
+        },
+        {
+            "id": 2,
+            "nome": "M-TEC-N Informática Para Internet",
+            "disciplinas": ["WEB III", "PAM III", "BD"],
+            "carga-horária": 1200
+        }
+    ]
+}
