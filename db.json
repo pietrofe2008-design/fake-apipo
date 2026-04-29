@@ -12,5 +12,11 @@
             "disciplinas": ["WEB III", "PAM III", "BD"],
             "carga-horária": 1200
         }
+    ],
+    "professores":[
+        {"id": 1, "nome":"Jean Carlo Wagner"},
+        {"id": 2, "nome":"Daniel Rondini Gussoni"},
+        {"id": 3, "nome":"Rodolfo Votto Filho"},
+        {"id": 4, "nome":"Manoel Messias Pereira Araújo"}
     ]
 }
